@@ -1,0 +1,193 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+        .section-title-wrap {
+    top: 50px;
+   
+    } 
+    
+    .main-slider-wrap {
+    height: 890px;
+
+   }
+    .section-title{
+        font-size: 30px;
+        line-height: 38px;
+
+    }
+
+    .section-title br {
+        display: none;
+    }
+    .section-desc br {
+        display: none;
+    }
+
+    .section-desc {
+        margin-top: 10px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .dental-section {
+
+        top: 32%;
+
+    }
+    .swiper-slide-active .step-no {
+    font-size: 45px;
+    opacity: 1;
+    top: -10px;
+    }
+    .main-content {
+
+        bottom: 60px;
+
+    }
+    .main-content h1 {
+
+    font-size: 30px;
+
+    }   
+    .main-content p {
+    margin-top: 15px;
+    font-size: 16px;
+ 
+    }
+    .outline-btn {
+    margin-top: 10px;
+    padding: 16px 28px;
+    font-size: 16px;
+
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .section-title-wrap {
+    top: 60px;
+   
+    } 
+    
+    .main-slider-wrap {
+    height: 830px;
+
+   }
+    .section-title{
+        font-size: 34px;
+        line-height: 38px;
+
+    }
+
+    .section-title br {
+        display: none;
+    }
+
+
+    .section-desc {
+        margin-top: 10px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .dental-section {
+
+        top: 32%;
+
+    }
+    .main-content h1 {
+
+    font-size: 34px;
+
+    }   
+    .main-content p {
+    margin-top: 15px;
+    font-size: 16px;
+ 
+    }
+    .outline-btn {
+    margin-top: 15px;
+    padding: 16px 28px;
+    font-size: 16px;
+
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  
+     .main-slider-wrap {
+    height: 830px;
+
+   }
+    .section-title{
+        font-size: 38px;
+        line-height: 44px;
+    }
+
+    .section-desc {
+        margin-top: 20px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .dental-section {
+
+        top: 32%;
+
+    }
+    .main-content h1 {
+
+    font-size: 34px;
+
+    }   
+    .main-content p {
+    margin-top: 15px;
+    font-size: 16px;
+ 
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .main-slider-wrap {
+    height: 830px;
+
+   }
+    .section-title{
+        font-size: 46px;
+        line-height: 50px;
+    }
+
+    .section-desc {
+        margin-top: 24px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .dental-section {
+
+        top: 35%;
+
+    }
+    .main-content h1 {
+
+    font-size: 34px;
+
+    }   
+    .main-content p {
+    margin-top: 10px;
+    font-size: 16px;
+ 
+    }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+ 
+    .section-title{
+        font-size: 54px;
+        line-height: 60px;
+    }
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+  
+}
